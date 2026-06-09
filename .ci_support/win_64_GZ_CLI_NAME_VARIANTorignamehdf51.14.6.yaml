@@ -15,7 +15,7 @@ curl:
 cxx_compiler:
 - vs2022
 dartsim_cpp:
-- '6.16'
+- '6.18'
 ffmpeg:
 - '8'
 graphviz:
@@ -47,4 +47,4 @@ tbb_devel:
 tinyxml2:
 - '11.0'
 urdfdom:
-- '5.1'
+- '6'
